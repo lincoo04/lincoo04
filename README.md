@@ -1,4 +1,11 @@
-### Hi there 👋
+### About Me
+
+-I am a junior at Iowa State Universoty studying Aerospace Engineering. I am currently experiencing github for the first time while taking my first ever programming course.
+
+-I enjoy spending my time with friends and outdoors.
+
+-I look forward to getting a start in my career. Eventually.
+
 
 <!--
 **lincoo04/lincoo04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
